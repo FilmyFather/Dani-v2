@@ -5,7 +5,7 @@
   <b>PiroAutoFilterBot</b>
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=PIRO+MOVIE+SEARCH+BOT+!;CREATED+BY+PIRO!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DANI+DENIAL+AUTO+MOVIE+SEARCH+BOT+V2+!;CREATED+BY+YUVI!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)</p>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/stargazers"><img src="https://img.shields.io/github/stars/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/network/members"> <img src="https://img.shields.io/github/forks/ritheshrkrm/PiroAutoFilterBot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License- GPL 2.0 license -blueviolet?style=for-the-badge" alt="License" /> </a>
@@ -142,11 +142,11 @@ unban  - to unban a use
  ### Note 🏷️
  - <b>Importing this repo instead of forking is strictly prohibited 🚫 Kindly fork and edit as your wish (Must Give Credits for devs) 🙃</b>
  - <b>If you find any bugs or errors, report it to the developer.</b>
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/raixchat)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/yuvi_4502)
 
 ### TELAGRAM SUPPORT 
 
-* [![PIRO BOTZ](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/piroxbots)
+* [![PIRO BOTZ](https://img.shields.io/static/v1?label=PIRO&message=BOTZ&color=critical)](https://telegram.me/yuvi_4502)
 
 
 
